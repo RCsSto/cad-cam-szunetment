@@ -15,3 +15,5 @@
   - Feladat kiosztva Tanárúr által
   - Github létrehozása
   - Github repo-ba emberek beinviteolása
+
+Kutatás a CAD/CAM és szünetmentes tápegységkről, word  létrehozása.
