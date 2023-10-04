@@ -17,3 +17,7 @@
   - Github repo-ba emberek beinviteolása
 
 Kutatás a CAD/CAM és szünetmentes tápegységkről, word  létrehozása.
+
+## 2023.10.04
+  - Word file-ok feltöltése github-ra.
+  - PPT megkezdése.
