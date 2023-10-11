@@ -25,3 +25,8 @@
   - Word file-ok feltöltése github-ra.
   - PPT megkezdése.
   - README.md update
+
+## 2023.10.11
+  - Minimalista PPT formázása, információ beillesztése.
+  - További szünetmentes tápegységekről való információ gyűjtés.
+  - README.md update.
