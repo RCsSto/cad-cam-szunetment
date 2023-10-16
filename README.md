@@ -31,7 +31,7 @@
   - További szünetmentes tápegységekről való információ gyűjtés.
   - README.md update.
 
-##2023.10.16
+## 2023.10.16
   - Órai PPT kiegészítés elvesztése kijelentkeztetés miatt, bepotólás.
   - Szünetmentes tápegység dokkumentum finalizálása.
   - README.md update.
