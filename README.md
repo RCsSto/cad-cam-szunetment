@@ -35,3 +35,7 @@
   - Órai PPT kiegészítés elvesztése kijelentkeztetés miatt, bepotólás.
   - Szünetmentes tápegység dokkumentum finalizálása.
   - README.md update.
+
+## 2023.10.25
+  - PPT kiegészítése,kinézet átalakítása/stílusítása(nem kész)
+  - README.md update.
