@@ -39,3 +39,7 @@
 ## 2023.10.25
   - PPT kiegészítése,kinézet átalakítása/stílusítása(nem kész)
   - README.md update.
+
+## 2023.10.25
+  - PPT-k kiegészítése (nem kész még)
+  - README.md update.
