@@ -40,6 +40,11 @@
   - PPT kiegészítése,kinézet átalakítása/stílusítása(nem kész)
   - README.md update.
 
-## 2023.10.25
+## 2023.11.06
   - PPT-k kiegészítése (nem kész még)
+  - README.md update.
+
+## 2023.11.07
+  - Animációk hozzáadása, szövegdobozok formázása.
+  - Minimalista PPT bejefezése, maximalista (amúgy nem) PPT folytatása.
   - README.md update.
