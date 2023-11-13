@@ -46,5 +46,10 @@
 
 ## 2023.11.07
   - Animációk hozzáadása, szövegdobozok formázása.
-  - Minimalista PPT bejefezése, maximalista PPT folytatása.
+  - Minimalista PPT folytatása, maximalista PPT folytatása.
+  - README.md update.
+
+## 2023.10.11
+  - Szünetmentes tápegység és CAD/CAM dokumentumok updatelése.
+  - PPT-k folytatása.
   - README.md update.
