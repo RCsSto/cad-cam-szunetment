@@ -32,12 +32,12 @@
   - README.md update.
 
 ## 2023.10.16
-  - Órai PPT kiegészítés elvesztése kijelentkeztetés miatt, bepotólás.
-  - Szünetmentes tápegység dokkumentum finalizálása.
+  - Órai PPT kiegészítés elvesztése kijelentkeztetés miatt, bepótlás.
+  - Szünetmentes tápegység dokkumentum egyenlőre befejezve.
   - README.md update.
 
 ## 2023.10.25
-  - PPT kiegészítése,kinézet átalakítása/stílusítása(nem kész)
+  - PPT kiegészítése, kinézet átalakítása/stílusítása (Nincs kész)
   - README.md update.
 
 ## 2023.11.06
@@ -46,5 +46,5 @@
 
 ## 2023.11.07
   - Animációk hozzáadása, szövegdobozok formázása.
-  - Minimalista PPT bejefezése, maximalista (amúgy nem) PPT folytatása.
+  - Minimalista PPT bejefezése, maximalista PPT folytatása.
   - README.md update.
