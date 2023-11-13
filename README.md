@@ -49,7 +49,7 @@
   - Minimalista PPT folytatása, maximalista PPT folytatása.
   - README.md update.
 
-## 2023.10.11
+## 2023.11.13
   - Szünetmentes tápegység és CAD/CAM dokumentumok updatelése.
   - PPT-k folytatása.
   - README.md update.
