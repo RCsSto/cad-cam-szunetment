@@ -53,3 +53,8 @@
   - Szünetmentes tápegység és CAD/CAM dokumentumok updatelése.
   - PPT-k folytatása.
   - README.md update.
+  - 
+## 2023.11.14
+  - Szünetmentes tápegység és CAD/CAM dokumentumok updatelése.
+  - PPT-k folytatása (szerintunk kesz)
+  - README.md update.
