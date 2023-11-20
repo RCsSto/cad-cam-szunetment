@@ -62,3 +62,8 @@
 ## 2023.11.15
   - PPT-k folytatása
   - README.md update.
+
+## 2023.11.20
+  - PPT hibák javítása
+  - README.md update.
+
